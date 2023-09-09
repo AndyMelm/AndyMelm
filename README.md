@@ -8,7 +8,7 @@
 
 ### Languages and Technologies:
 
-- **Programming Languages:** Python, JavaScript, HTML, CSS, TypeScript
+- **Programming Languages:** Python, JavaScript, HTML, CSS, TypeScript, SQL
 - **Frameworks:** Angular, React(Redux), Django, Flask
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, Docker
