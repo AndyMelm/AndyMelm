@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: [Email](mailto:andrey.melman93@gmail.com) or [LinkedIn](https://www.linkedin.com/in/andrey-melman/)
 
-- ### Languages and Technologies:
+### Languages and Technologies:
 
 - **Programming Languages:** Python, JavaScript, HTML, CSS, TypeScript
 - **Frameworks:** Angular, React(Redux), Django, Flask
