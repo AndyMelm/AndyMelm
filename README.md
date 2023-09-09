@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Trading Journal project to help traders record their trades and gain valuable insights from their trading data.
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me: [contact me](mailto:andrey.melman93@gmail.com) or [LinkedIn](https://www.linkedin.com/in/andrey-melman/)
+- 📫 How to reach me: [Email](mailto:andrey.melman93@gmail.com) or [LinkedIn](https://www.linkedin.com/in/andrey-melman/)
 <!--
 **AndyMelm/AndyMelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
